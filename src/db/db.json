@@ -1,0 +1,66 @@
+{
+  "Habit": [
+    {
+      "name": "Exercise",
+      "describe": "every morning 30 minutes",
+      "day": "30",
+      "status": "active",
+      "streak": 1,
+      "startDate": "2026-08-15",
+      "doneDays": [
+        "2026-08-15"
+      ],
+      "icon": "💪🏻",
+      "color": {
+        "shadow": "shadow-[0_0_5px_0px_#9810fa]/60",
+        "from": "from-purple-500",
+        "to": "to-purple-900",
+        "bg": "bg-purple-500",
+        "iconColor": "text-amber-500"
+      },
+      "id": "vXw8CPxwShk"
+    },
+    {
+      "name": "reading books",
+      "describe": "every night 10 pages",
+      "day": "25",
+      "status": "active",
+      "streak": 1,
+      "startDate": "2026-08-15",
+      "doneDays": [
+        "2026-08-15",
+        "2026-08-17"
+      ],
+      "icon": "📕",
+      "color": {
+        "shadow": "shadow-[0_0_5px_0px_#4f39f6]/60",
+        "from": "from-indigo-500",
+        "to": "to-indigo-900",
+        "bg": "bg-indigo-500",
+        "iconColor": "text-amber-500"
+      },
+      "id": "OyftIy87tk4"
+    },
+    {
+      "name": "writhing",
+      "describe": "every day",
+      "day": "40",
+      "status": "active",
+      "streak": 1,
+      "startDate": "2026-08-15",
+      "doneDays": [
+        "2026-08-17"
+      ],
+      "icon": "📒",
+      "color": {
+        "shadow": "shadow-[0_0_5px_0px_#155dfc]/60",
+        "from": "from-blue-500",
+        "to": "to-blue-900",
+        "bg": "bg-blue-500",
+        "iconColor": "text-amber-500"
+      },
+      "id": "1mznjDiA8Pg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+/* return (
+    <>
+      <h2 className="text-2xl font-bold dark:text-white ">Products Analytics</h2>
+      <Bar
+        data={data}
+        options={options}
+        className={`effect dark-dashboardBox-effect py-12 px-18 rounded-xl`}
+      />
+    </>
+  ); */
