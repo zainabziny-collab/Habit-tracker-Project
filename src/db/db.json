@@ -8,7 +8,8 @@
       "streak": 1,
       "startDate": "2026-08-15",
       "doneDays": [
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-29"
       ],
       "icon": "💪🏻",
       "color": {
@@ -29,7 +30,8 @@
       "startDate": "2026-08-15",
       "doneDays": [
         "2026-08-15",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-29"
       ],
       "icon": "📕",
       "color": {
@@ -49,7 +51,8 @@
       "streak": 1,
       "startDate": "2026-08-15",
       "doneDays": [
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-29"
       ],
       "icon": "📒",
       "color": {
@@ -60,6 +63,26 @@
         "iconColor": "text-amber-500"
       },
       "id": "1mznjDiA8Pg"
+    },
+    {
+      "name": "writhing",
+      "describe": "every day 20 min",
+      "day": "30",
+      "status": "active",
+      "streak": 1,
+      "startDate": "2026-08-29",
+      "doneDays": [
+        "2026-08-29"
+      ],
+      "icon": "📕",
+      "color": {
+        "shadow": "shadow-[0_0_5px_0px_#d08700]/60",
+        "from": "from-yellow-500",
+        "to": "to-yellow-800",
+        "bg": "bg-yellow-500",
+        "iconColor": "text-black"
+      },
+      "id": "Jd8E6cKbGKU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
